@@ -1,4 +1,4 @@
- body (test add)
+ body (test add) (new add2)
     div(class='container-fluid')
       div(class='row')
         div(class='col-sm-2')
