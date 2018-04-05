@@ -1,5 +1,6 @@
  body (test add)
  (add from console)
+ (add from sourcetree)
     div(class='container-fluid')
       div(class='row')
         div(class='col-sm-2')
